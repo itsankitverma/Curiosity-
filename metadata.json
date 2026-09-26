@@ -1,0 +1,6 @@
+{
+  "name": "Curiosity - Discoveries Backed by Science",
+  "description": "A curiosity-driven science discovery platform featuring fascinating observations, experiments, research breakdowns, daily discovery feeds, and interactive visual explorations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
